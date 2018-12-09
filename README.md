@@ -1,2 +1,2 @@
 # Coinhive-Miner
-simple implementation of Coinhive Monero miner
+A simple implementation of Coinhive's Monero miner.
